@@ -1,7 +1,32 @@
 {
+	// me old eyes
+	"font_size": 15,
+
+	// don't think this is ever useful
+    "drag_text": true,
+
+	// if false then newline triggers autocomplete which can be surprising
+	"auto_complete_commit_on_tab": true,
+
+	// try to get myself out of the constant :s habit
+	"save_on_focus_lost": true,
+
+	// by default sublime ignores typing a close paren if you're over a close paren.  wierd!
+	"auto_match_enabled": false,
+
 	"ensure_newline_at_eof_on_save": true,
+
+	// because I'm using Vintageous
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+
+	// lion style fullscreen is slow and terrible on multiple monitors
+	"use_simple_full_screen": true,
+
+	// too easy to hit when a million tabs are open
+	"show_tab_close_buttons": false,
+
+	"bold_folder_labels": true
 }
