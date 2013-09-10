@@ -10,5 +10,9 @@ https://github.com/bronson/SublimeTextSettings
 
 #### Mac/Linux
 
-* rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
-* git clone https://github.com/bronson/Sublime-3-Settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+* Install Sublime Text 3 the usual way: http://www.sublimetext.com/3
+* `rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`
+* `git clone https://github.com/bronson/Sublime-3-Settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`
+* Install Package Control: https://sublime.wbond.net/installation
+
+Done!  You probably don't even have to restart Sublime.
