@@ -1,6 +1,5 @@
 {
-	// me old eyes
-	"font_size": 15,
+	"font_size": 12,
 
 	// don't think this is ever useful
     "drag_text": true,
