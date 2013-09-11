@@ -1,6 +1,15 @@
 {
 	"installed_packages":
 	[
+		"PackageResourceViewer",
+		"rails-partial",
+		"RubyTest",
+		"ScopeHunter",
+		"SublimeGit",
 		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/wesf90/rails-partial/tree/st3"
 	]
 }
