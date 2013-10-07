@@ -13,5 +13,8 @@
 
   // reformatting the pasted text should be the default
   { "keys": ["super+shift+v"], "command": "paste" },
-  { "keys": ["super+v"], "command": "paste_and_indent" }
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+
+  // default cmd-r is useless so reuse it for goto definition
+  { "keys": ["super+r"], "command": "goto_symbol_in_project" }
 ]
