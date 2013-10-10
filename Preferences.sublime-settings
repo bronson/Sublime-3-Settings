@@ -11,6 +11,7 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
+	"show_minimap": false,
 	"show_tab_close_buttons": false,
 	"use_simple_full_screen": true
 }
