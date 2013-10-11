@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"ChangeList",
 		"LESS",
 		"PackageResourceViewer",
