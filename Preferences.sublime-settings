@@ -4,6 +4,7 @@
 	"bold_folder_labels": true,
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns": ["node_modules"],
 	"file_exclude_patterns": ["*.log", "tags"],
 	"font_size": 14,
 	"highlight_modified_tabs": true,
